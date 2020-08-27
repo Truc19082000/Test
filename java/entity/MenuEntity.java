@@ -22,7 +22,8 @@ public class MenuEntity {
     List<TravelEntity> travelList;
     
     
-
+    Public test(){
+     }
     public MenuEntity() {
     }
 
